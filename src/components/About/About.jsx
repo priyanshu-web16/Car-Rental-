@@ -22,12 +22,10 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+                Choose from a wide range of cars – from budget-friendly rides to luxury vehicles for special occasions.
               </p>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-                tempora.
+               We make your journey smooth, affordable, and stress-free.
               </p>
               <button data-aos="fade-up" className="button-outline">
                 Get Started
